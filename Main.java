@@ -34,6 +34,7 @@ public class Main {
             if(arr[i]%2==0)
                 count++;
             System.out.println("Number of even_numbers:"+count+1);
+            System.out.println("Number of evennumbers:"+count+2);
         }
         return count;
     }
