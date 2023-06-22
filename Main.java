@@ -33,6 +33,7 @@ public class Main {
         for(int i=0;i< arr.length;i++){
             if(arr[i]%2==0)
                 count++;
+            System.out.println("Number of evennumbers:"+count);
         }
         return count;
     }
